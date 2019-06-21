@@ -13,6 +13,7 @@ namespace ConsoleApplication
             string xx = "Teste de projeto";
             Console.WriteLine("Inicio");
             Console.WriteLine(xx);
+            Console.WriteLine("Fim")
         }
     }
 }
